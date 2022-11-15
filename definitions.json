@@ -1,0 +1,14 @@
+{
+  "methods": {
+    "wait": {
+      "name": "Wait",
+      "arguments": [
+        {
+          "type": "number",
+          "name": "Time",
+          "placeholder": "Milliseconds"
+        }
+      ]
+    }
+  }
+}
